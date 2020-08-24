@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491656938652",
+    "firebase_url": "https://chat-app-30202.firebaseio.com",
+    "project_id": "chat-app-30202",
+    "storage_bucket": "chat-app-30202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491656938652:android:995485a9530bbf56361959",
+        "android_client_info": {
+          "package_name": "com.samirwaibo.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491656938652-94g5f9arnslav3us1ltvcd0724ibi57j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxcoRB7oovblVa-GMjB1XE8OLU7SVy_7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491656938652-94g5f9arnslav3us1ltvcd0724ibi57j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
